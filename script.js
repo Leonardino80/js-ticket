@@ -16,7 +16,7 @@ if (età < 18 ) {
   console. log(prezzo_minori);
 }
 
-if (età > 64 ) {
+else if (età > 64 ) {
   var prezzo_anziani = ticket_adulti * 0.6;
   alert('il prezzo per gli over 65 è' + ' ' + prezzo_anziani + ' ' + '€');
   console. log(prezzo_anziani);
