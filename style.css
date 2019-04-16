@@ -1,0 +1,10 @@
+#biglietto_emesso{
+  background: yellow;
+  width: auto ;
+  display: inline-block;
+  height: auto;
+  padding: 50px;
+  margin: auto;
+  text-align: center;
+  border: 1px solid black;
+}
